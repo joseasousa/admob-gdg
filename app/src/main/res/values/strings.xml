@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">adMob</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_id">ca-app-pub-1928942824562343/4944506710</string>
+    <string name="intertial_ad_id">ca-app-pub-1928942824562343/3269297114</string>
+
+    <string name="title_activity_tela2">Tela2Activity</string>
+    <string name="banner">Banner</string>
+</resources>
